@@ -17,7 +17,7 @@ Images are in '/img/about/'
 
 ###Team
 
-Team members and info are in '_config.yml'
+Team members and info are in _data/team.yml
 
 Images are in '/img/team/'
 
