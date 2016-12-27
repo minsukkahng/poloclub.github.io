@@ -1,6 +1,17 @@
 # Team names, titles and social links
 
-- name: Kay Garland
+- name: Acar Tamersoy
+  pic: 1.jpg
+  position: Research Scientist, Symantec Research Labs
+  social:
+    - title: home
+      url: http://www.cc.gatech.edu/~atamerso/
+    - title: linkedin
+      url: https://www.linkedin.com/in/acar-tamersoy-94481b120
+    - title: google
+      url: https://scholar.google.com/citations?user=tHffG7wAAAAJ
+      
+- name: Robert Pienta
   pic: 1.jpg
   position: Lead Designer
   social:
