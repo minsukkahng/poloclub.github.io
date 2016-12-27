@@ -1,0 +1,35 @@
+# Team names, titles and social links
+
+- name: Kay Garland
+  pic: 1.jpg
+  position: Lead Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Yiqi (Victor) Chen
+  pic: victor.png
+  position: Software Engineer, Facebook
+  social:
+    - title: home
+      url: #
+    - title: linkedin
+      url: #
+    - title: twitter
+      url: #
+
+
+- name: Diana Petersen
+  pic: 3.jpg
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
